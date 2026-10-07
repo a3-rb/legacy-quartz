@@ -10,6 +10,6 @@
 
 ---
 
-Опубликовано на корпоративном github с использованием движка Quartz. Архив с базой Obsidian можно скачать по [ссылке]().
+Опубликовано на корпоративном github с использованием движка Quartz. Архив с контентом можно скачать по [ссылке](https://gitfolderdownloader.github.io/?=https://github.com/a3-rb/legacy-quartz/tree/main/content). Также можно скачать весь [репозиторий](https://api.github.com/repos/a3-rb/legacy-quartz/zipball/main).
 
 Мои контакты: [[https://r.leargun.site|r.leargun.site]]

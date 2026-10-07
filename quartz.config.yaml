@@ -226,6 +226,8 @@ plugins:
     enabled: true #edited
     options:
       links:
+        Скачать контент: https://gitfolderdownloader.github.io/?=https://github.com/a3-rb/legacy-quartz/tree/main/content
+        Скачать репозиторий: https://api.github.com/repos/a3-rb/legacy-quartz/zipball/main
         Контакты: https://r.leargun.site
   - source: github:quartz-community/recent-notes
     enabled: true #edited
